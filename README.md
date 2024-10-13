@@ -2,17 +2,17 @@
 
 Modules:
 
-Contact- Stores contact name and information.(Rainer)
-Phonebook - Stores contacts and contains all major functions(insert, delete, search, update, display).
-Phone - Acts as a interface for the phonebook.(Rainer, Jesaya)
+<br>Contact- Stores contact name and information.(Rainer).<br/>
+<br>Phonebook - Stores contacts and contains all major functions(insert, delete, search, update, display).<br/>
+<br>Phone - Acts as a interface for the phonebook.(Rainer, Jesaya)<br/>
 
 Functions:
 
-Insert: Inserts a contact with a name key.(Jesaya)
-Delete: Deletes a entry in the phonebook.(Tadeus)
-Search: Searches for a contact by name. (Delicia)
-Update: Can update a contact or name(key).(Rainer)
-Display: Displays all contacts in the phonebook.(Tuyeimo)
+<br>Insert: Inserts a contact with a name key. (Jesaya)<br/>
+<br>Delete: Deletes a entry in the phonebook. (Tadeus)<br/>
+<br>Search: Searches for a contact by name. (Delicia)<br/>
+<br>Update: Can update a contact or name(key). (Rainer)<br/>
+<br>Display: Displays all contacts in the phonebook. (Tuyeimo)<br/>
 
 ## Description
 
@@ -22,9 +22,9 @@ A phoneboook that not only stores contacts but allows for CRUD(Create Read Updat
 
 Contributors names and Student numbers
 
-Jesaya Barnabas 219096910
-Tadeus Kalola 224092057
-Tuyeimo Nangombe 224096303
-Rainer Coetzer 223001481
-Delicia Damases 223128856
+<br>Jesaya Barnabas 219096910<br/>
+<br>Tadeus Kalola 224092057<br/>
+<br>Tuyeimo Nangombe 224096303<br/>
+<br>Rainer Coetzer 223001481<br/>
+<br>Delicia Damases 223128856<br/>
 
