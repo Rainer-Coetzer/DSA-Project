@@ -5,8 +5,11 @@ class Phonebook {
     HashMap<String, Contact> contactMap = new HashMap<>();
 
     // Insertion
-
-
+    public void insertContact(String name, String phoneNumber) {
+        Contact contact = new Contact(name, phoneNumber);
+        contactMap.put(name, contact);
+        System.out.println("Contact inserted: " + name);
+    }
     // Search
 
 
