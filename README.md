@@ -29,7 +29,7 @@ Contributors names and Student numbers
 
 <br>Jesaya Barnabas 219096910<br/>
 <br>Tadeus Kalola 224092057<br/>
-<br>Tuyeimo Nangombe 224096303<br/>
+<br>Tuyeimo Nangobe 224096303<br/>
 <br>Rainer Coetzer 223001481<br/>
 <br>Delicia Damases 223128856<br/>
 
