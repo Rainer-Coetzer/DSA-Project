@@ -10,7 +10,15 @@ class Phonebook {
         System.out.println("Contact inserted: " + name);
     }
     // Search
-
+    public Contact searchContact(String name) {        
+        if (contactMap.containsKey(name)) {            
+            return contactMap.get(name);        
+        } 
+        else {            
+            System.out.println("Contact not found.");            
+            return null;        
+        }    
+    }
 
     // Deletion
     public void deleteContact(String name) {
