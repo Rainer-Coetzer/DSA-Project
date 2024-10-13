@@ -14,7 +14,14 @@ class Phonebook {
 
 
     // Deletion
-
+      public void deleteContact(String name) {
+        if (contactMap.containsKey(name)) {
+            contactMap.remove(name);
+            System.out.println("Contact deleted: " + name);
+        } else {
+            System.out.println("Contact not found.");
+        }
+    }
 
     // Updating
     public void updateContact(String currentName, String newName, String newPhoneNumber) {
