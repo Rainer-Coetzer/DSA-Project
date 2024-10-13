@@ -13,10 +13,15 @@ Functions:
 <br>Search: Searches for a contact by name. (Delicia)<br/>
 <br>Update: Can update a contact or name(key). (Rainer)<br/>
 <br>Display: Displays all contacts in the phonebook. (Tuyeimo)<br/>
+<br>Create Group: Group contacts under a single name. (Rainer)<br/>
+<br>Insert into Group: Insert a contact into group. (Rainer)<br/>
+<br>Delete from Group: Delete a contact from group. (Rainer)<br/>
+<br>Search for group: Search for a group and display all contacts contained in that group. (Rainer)<br/>
+<br>Delete group: Delete a group. (Rainer)<br/>
 
 ## Description
 
-A phoneboook that not only stores contacts but allows for CRUD(Create Read Update Delete) operations, built with effciency and speed in mind even with massive datasets. A simple command line allows you to interact with the phonebook.
+A phoneboook that not only stores contacts but allows for CRUD(Create Read Update Delete) operations and contact grouping, but is built with effciency and speed in mind even with massive datasets. A simple command line allows you to interact with the phonebook.
 
 ## Authors
 
