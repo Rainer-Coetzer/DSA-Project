@@ -14,7 +14,7 @@ class Phonebook {
 
 
     // Deletion
-      public void deleteContact(String name) {
+    public void deleteContact(String name) {
         if (contactMap.containsKey(name)) {
             contactMap.remove(name);
             System.out.println("Contact deleted: " + name);
