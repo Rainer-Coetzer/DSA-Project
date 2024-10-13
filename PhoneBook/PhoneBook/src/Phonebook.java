@@ -49,7 +49,13 @@ class Phonebook {
     
 
     // Display all contacts
+public void displayAllContacts() {
+        if (contactMap.isEmpty()) {
+            System.out.println("Phonebook is empty.");
+        } else {
+            for (Contact contact : contactMap.values()) {
+                System.out.println("Name: " + contact.name + ", Phone Number: " + contact.phoneNumber);
+            }
 
-
-
+}
 }
